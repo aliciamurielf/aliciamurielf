@@ -14,17 +14,17 @@
 
 ### Sobre mí
 
-Soy estudiante de último año del **Grado en Ingeniería Informática** (Mención en Computación) en la **Universidad de Córdoba** 🏛️. 
+Soy estudiante de último año del **Grado en Ingeniería Informática** (Mención en Computación) en la **Universidad de Córdoba**. 
 
 Me apasiona la intersección entre la **Inteligencia Artificial centrada en las personas**, la **arquitectura de software** y la **administración de sistemas GNU/Linux**.
 
-* 🔬 **Investigación en IA:** Alumna colaboradora en el grupo **HUMAINS (TIC-280)** de la UCO. Trabajo en la auditoría de modelos de Machine Learning mediante **IA Explicable (XAI)** y **Equidad Algorítmica (FairML)** empleando explicaciones contrafactuales (`DiCE`, `Fairlearn`, `scikit-learn`).
-* 🐧 **Open Source & Comunidad:** Colaboradora activa en el **Aula de Software Libre de la UCO** y parte del equipo organizador del evento tech **SalmorejoTech 2026**[cite: 4.2].
-* 🛠️ **Sistemas & Hardware:** Entusiasta de Fedora Linux, automatización con *scripting* (Bash/Zsh), redes y diagnóstico técnico[cite: 4.2].
+* **Investigación en IA:** Alumna colaboradora en el grupo **HUMAINS (Human-Centred Artificial Intelligence, TIC-280)** de la UCO. Trabajo en la auditoría de modelos de Machine Learning mediante **IA Explicable (XAI)** y **Equidad Algorítmica (FairML)** empleando explicaciones contrafactuales (`DiCE`, `Fairlearn`, `scikit-learn`).
+* **Open Source & Comunidad:** Colaboradora activa en el **Aula de Software Libre de la UCO** y parte del equipo organizador del evento tech **SalmorejoTech 2026 y 2027**.
+* **Sistemas & Hardware:** Entusiasta de Fedora Linux, automatización con *scripting* (Bash/Zsh), redes y diagnóstico técnico.
 
 ---
 
-### 🧰 Tech Stack & Skills
+### Tech Stack & Skills
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
@@ -38,25 +38,25 @@ Me apasiona la intersección entre la **Inteligencia Artificial centrada en las 
 ### 📂 Proyectos e Investigaciones Principales
 
 <details>
-  <summary><b>🧠 IA Explicable & FairML (HUMAINS)</b></summary>
+  <summary><b> IA Explicable & FairML (HUMAINS)</b></summary>
   <br>
   Auditoría de sesgos y modelos clasificadores mediante explicaciones contrafactuales empleando <code>DiCE</code>, <code>Fairlearn</code> y <code>scikit-learn</code>.
 </details>
 
 <details>
-  <summary><b>⚙️ Compiladores y Procesadores de Lenguajes</b></summary>
+  <summary><b> Compiladores y Procesadores de Lenguajes</b></summary>
   <br>
   Intérprete dinámico con Árboles de Sintaxis Abstracta (AST) desarrollado en C/C++ utilizando Flex y Bison.
 </details>
 
 <details>
-  <summary><b>🌐 Arquitectura Backend Modular</b></summary>
+  <summary><b> Arquitectura Backend Modular</b></summary>
   <br>
   Diseño e implementación de APIs REST robustas empleando Java y Spring Boot.
 </details>
 
 <details>
-  <summary><b>🐧 Scripting y Administración Linux</b></summary>
+  <summary><b> Scripting y Administración Linux</b></summary>
   <br>
   Automatización de tareas mediante shell scripting en Bash/Zsh, configuración de sistemas Fedora y gestión de red/sockets.
 </details>
@@ -76,5 +76,5 @@ Me apasiona la intersección entre la **Inteligencia Artificial centrada en las 
 ---
 
 <p align="center">
-  <i>"In software, the most beautiful code is clear, fair, and accessible."</i> ✨
+  <i>"In software, the most beautiful code is clear, fair, and accessible."</i> 
 </p>
