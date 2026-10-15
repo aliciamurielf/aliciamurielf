@@ -1,5 +1,5 @@
 # Alicia Muriel Fernández
-### *Computer Engineering Student & AI/FairML Researcher* 🎓
+### *Computer Engineering Student & AI/FairML Researcher* 
 
 <br>
 
@@ -33,7 +33,7 @@ Me apasiona la intersección entre la **Inteligencia Artificial centrada en las 
 
 ---
 
-### 📂 Proyectos e Investigaciones Principales
+# Proyectos e Investigaciones Principales
 
 <details>
   <summary><b> IA Explicable & FairML (HUMAINS)</b></summary>
@@ -61,7 +61,7 @@ Me apasiona la intersección entre la **Inteligencia Artificial centrada en las 
 
 ---
 
-### 📈 Mi Actividad en GitHub
+### Mi Actividad en GitHub
 
 | Resumen de Estado | Lenguajes más utilizados |
 | :---: | :---: |
