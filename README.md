@@ -14,7 +14,7 @@
 
 ### Sobre mí
 
-¡Hola! 👋 Soy estudiante de último año del **Grado en Ingeniería Informática** (Mención en Computación) en la **Universidad de Córdoba** 🏛️. 
+Soy estudiante de último año del **Grado en Ingeniería Informática** (Mención en Computación) en la **Universidad de Córdoba** 🏛️. 
 
 Me apasiona la intersección entre la **Inteligencia Artificial centrada en las personas**, la **arquitectura de software** y la **administración de sistemas GNU/Linux**.
 
@@ -36,18 +36,30 @@ Me apasiona la intersección entre la **Inteligencia Artificial centrada en las 
 ---
 
 ### 📂 Proyectos e Investigaciones Principales
-├── 🧠 IA Explicable & FairML (HUMAINS)
-│   └── Auditoría de sesgos y modelos clasificadores mediante explicaciones contrafactuales.
-│
-├── ⚙️ Compiladores y Procesadores de Lenguajes
-│   └── Intérprete dinámico con Árboles de Sintaxis Abstracta (AST) usando Flex y Bison.
-│
-├── 🌐 Arquitectura Backend Modulares
-│   └── Diseño de APIs REST robustas utilizando Java, Spring Boot y patrones de diseño.
-│
-└── 🐧 Scripting y Administración Linux
-└── Automatización de tareas, configuración avanzada de shell y optimización en Fedora.
 
+<details>
+  <summary><b>🧠 IA Explicable & FairML (HUMAINS)</b></summary>
+  <br>
+  Auditoría de sesgos y modelos clasificadores mediante explicaciones contrafactuales empleando <code>DiCE</code>, <code>Fairlearn</code> y <code>scikit-learn</code>.
+</details>
+
+<details>
+  <summary><b>⚙️ Compiladores y Procesadores de Lenguajes</b></summary>
+  <br>
+  Intérprete dinámico con Árboles de Sintaxis Abstracta (AST) desarrollado en C/C++ utilizando Flex y Bison.
+</details>
+
+<details>
+  <summary><b>🌐 Arquitectura Backend Modular</b></summary>
+  <br>
+  Diseño e implementación de APIs REST robustas empleando Java y Spring Boot.
+</details>
+
+<details>
+  <summary><b>🐧 Scripting y Administración Linux</b></summary>
+  <br>
+  Automatización de tareas mediante shell scripting en Bash/Zsh, configuración de sistemas Fedora y gestión de red/sockets.
+</details>
 
 ---
 
