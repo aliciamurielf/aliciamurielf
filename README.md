@@ -1,4 +1,4 @@
-# ⚡ Alicia Muriel Fernández
+# Alicia Muriel Fernández
 ### *Computer Engineering Student & AI/FairML Researcher* 🎓
 
 <br>
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 ¡Hola! 👋 Soy estudiante de último año del **Grado en Ingeniería Informática** (Mención en Computación) en la **Universidad de Córdoba** 🏛️. 
 
@@ -36,3 +36,33 @@ Me apasiona la intersección entre la **Inteligencia Artificial centrada en las 
 ---
 
 ### 📂 Proyectos e Investigaciones Principales
+├── 🧠 IA Explicable & FairML (HUMAINS)
+│   └── Auditoría de sesgos y modelos clasificadores mediante explicaciones contrafactuales.
+│
+├── ⚙️ Compiladores y Procesadores de Lenguajes
+│   └── Intérprete dinámico con Árboles de Sintaxis Abstracta (AST) usando Flex y Bison.
+│
+├── 🌐 Arquitectura Backend Modulares
+│   └── Diseño de APIs REST robustas utilizando Java, Spring Boot y patrones de diseño.
+│
+└── 🐧 Scripting y Administración Linux
+└── Automatización de tareas, configuración avanzada de shell y optimización en Fedora.
+
+
+---
+
+### 📈 Mi Actividad en GitHub
+
+| Resumen de Estado | Lenguajes más utilizados |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=aliciamurielf&theme=tokyonight&show_icons=true&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamurielf&theme=tokyonight&layout=compact&hide_border=true" width="350" /> |
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliciamurielf&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+---
+
+<p align="center">
+  <i>"In software, the most beautiful code is clear, fair, and accessible."</i> ✨
+</p>
